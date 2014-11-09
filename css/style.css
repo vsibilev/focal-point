@@ -167,6 +167,9 @@ header {
 	padding-left: 20px;
 	color: #6F6F6F;
 }
+.singup-form input:focus {
+	outline: none;
+}
 .singup-form button {
 	position: relative;
 	font-size: 18px;
