@@ -165,6 +165,7 @@ header {
 .singup-form input {
 	font-size: 18px;
 	padding-left: 20px;
+	color: #6F6F6F;
 }
 .singup-form button {
 	position: relative;
